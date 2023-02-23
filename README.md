@@ -1,1 +1,1 @@
-# Interective_Dashboard
+# Shiny App for Exploratory Analysis on mtcars
